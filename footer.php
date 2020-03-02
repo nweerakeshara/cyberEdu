@@ -24,7 +24,7 @@
 					<div class="footer">
 					<br><br><br>
             <ul class="footer-contact">
-              <li><i class="fa fa-map-marker"></i><b> Yatagala Raja Maha Viharaya, Unawatuna, Galle</b></li>
+              <li><i class="fa fa-map-marker"></i><b> Hettajala Education Center, Unawatuna, Galle</b></li>
               <br>
               <li><i class="fa fa-phone"></i><b> +94 912 222 199</b></li>
               <br>
@@ -38,7 +38,7 @@
 				<div class="col-md-4">
 					<div class="footer">
 						
-						<p>Have a visit and explore one of the ancient Buddhist vihara in Galle.</p>
+						<p>Have a visit and explore Hettajala Education Center connected to Yatagala Raja Maha Viharaya.</p>
             <iframe src="https://www.google.com/maps/d/u/0/embed?mid=10ETw_UXPe09Y2nsNfSZnHJRrs_b7VREM" width="100%" height="100%"></iframe>
               <div>
 						

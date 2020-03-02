@@ -6,8 +6,8 @@ include_once('header.php');
 	<header id="head">
 		<div class="container">
              <div class="heading-text">
-							<h1 class="animated flipInY delay1">Start Online Education</h1>
-							<p>Free Online education template for elearning and online education institute.</p>
+							<h1 class="animated flipInY delay1"></h1>
+							<p></p>
 						</div>
 
 					<div class="fluid_container">
