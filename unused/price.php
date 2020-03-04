@@ -5,8 +5,7 @@ include_once('header.php');
 		<header id="head" class="secondary">
             <div class="container">
                     <h1>Our Price</h1>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing eliras scele!</p>
-                </div>
+                                    </div>
     </header>
 
 

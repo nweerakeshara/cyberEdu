@@ -4,8 +4,8 @@
 
 		<header id="head" class="secondary">
             <div class="container">
-                    <h1>Online Videos</h1>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing eliras scele!</p>
+                    <h1>Gallery</h1>
+                    
                 </div>
     </header>
 
@@ -18,21 +18,14 @@
 					<br />
 					<br />
 					<p>
-						At lorem Ipsum available, but the majority have suffered alteration in some form by injected huffered altehe majority have suffered alteration in some form by injected huffered alteration in some form by injected humour.uffered alteration in some form by injected h
+						<b>Campus Premises</b>
 					<br />
 						<br />
 					</p>
 
 
 					<div class="row">
-						<nav id="filter" class="col-md-12 text-center">
-							<ul>
-								<li><a href="#" class="current btn-theme btn-small" data-filter="*">All</a></li>
-								<li><a href="#" class="btn-theme btn-small" data-filter=".webdesign">Development</a></li>
-								<li><a href="#" class="btn-theme btn-small" data-filter=".photography">Designing</a></li>
-								<li><a href="#" class="btn-theme btn-small" data-filter=".print">Tools</a></li>
-							</ul>
-						</nav>
+						
 						<div class="col-md-12">
 							<div class="row">
 								<div class="portfolio-items isotopeWrapper clearfix" id="3">

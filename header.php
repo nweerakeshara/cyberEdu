@@ -26,16 +26,16 @@
 			<div class="navbar-header">
 				<!-- Button for smallest screens -->
 				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
-				<a class="navbar-brand" href="index.html">
+				<a class="navbar-brand" href="index.php">
 					<img src="assets/images/logo.png" alt="Techro HTML5 template"></a>
 			</div>
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav pull-right mainNav">
 					<li class="active"><a href="index.php">Home</a></li>
-					<li><a href="#">About</a></li>
+					<li><a href="about.php">About</a></li>
 					<li><a href="courses.php">Courses</a></li>
-					<li><a href="price.php">Welfare</a></li>
-					<li><a href="videos.php">Posts</a></li>
+					<li><a href="posts.php">Posts</a></li>
+					<li><a href="gallery.php">Gallery</a></li>
 					<li><a href="contact.php">Contact</a></li>
 
 				</ul>
