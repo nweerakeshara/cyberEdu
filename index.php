@@ -30,7 +30,7 @@ include_once('header.php');
       	<div class="col-md-8"><div class="title-box clearfix "><h2 class="title-box_primary">About Us</h2></div>
         <p><span>We are a leading institute in Galle that provide our students with subject knowledge connecting Buddhist Culture with new technology.</span></p>
         <p>Currently, we offer educational facilities to anyone interested in these subjects. You can visit our education center to follow our programmes or you can connect with us remotely through internet to follow our educational programmes. Many students have improved their knowledge since 2017 by joining with us. If you are interested feel free to contact us using one of our contact methods or the Contact Us page of this web-application.</p>
-        <a href="#" title="read more" class="btn-inline " target="_self">read more</a> </div>
+        <a href="about.php" title="read more" class="btn-inline " target="_self">read more</a> </div>
 
 
           <div class="col-md-4"><div class="title-box clearfix "><h2 class="title-box_primary">Our Services </h2></div>
