@@ -38,7 +38,7 @@
 				<div class="col-md-4">
 					<div class="footer">
 						
-						<p>Have a visit and explore Hettajala Education Center connected to Yatagala Raja Maha Viharaya.</p>
+						<p>Have a visit and explore Hettajala Education Center managed by Yatagala Raja Maha Viharaya.</p>
             <iframe src="https://www.google.com/maps/d/u/0/embed?mid=10ETw_UXPe09Y2nsNfSZnHJRrs_b7VREM" width="100%" height="100%"></iframe>
               <div>
 						
